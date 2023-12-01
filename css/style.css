@@ -63,8 +63,6 @@ section{
 .section_article{
     background-color: #FFFFFF;
     padding: 33px 30px;
-    width: 400px;
-    height: 333px;
     border-radius: 10px;
 }
 .article_img{
@@ -85,7 +83,6 @@ p{
 footer{
     padding: 75px 98px 105px;
     background-color: #758BFD;
-    margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
 }
